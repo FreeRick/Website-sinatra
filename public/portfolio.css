@@ -1,0 +1,70 @@
+#me {
+
+}
+
+#topbox {
+  margin: 0;
+  padding: 0;
+  line-height: 1.2em;
+  font-size: 38px;
+  border: 10px;
+  border-style: groove;
+  border-width: thin;
+  text-align: center;
+  /*height: 100%;*/
+}
+
+* {
+  background-image: url(https://static.pexels.com/photos/6471/woman-hand-smartphone-desk.jpg)
+}
+
+
+h5 {
+
+}
+
+div #developerit {
+  justify-content: center;
+}
+
+.developerit {
+  font-family: sans-serif;
+  border: 30em;
+  justify-content: space-around;
+}
+
+#socialnet {
+  margin: 0;
+  padding: 0;
+  line-height: 38px;
+}
+
+
+/*.class {
+  button
+}*/
+
+/*#socialnet {
+  margin: 25px;
+  margin-top: 400px;
+  border: 50px;
+}*/
+
+#projects: {
+  /*display: flex;
+  text-align: center;
+  border-style: groove;
+  /*border-image: "https://g.twimg.com/Twitter_logo_blue.png"(ge)
+  border-color: black;
+  /*border-radius: 4px;*/
+  display: flex;
+width: auto;
+ border: solid black;
+ float:left;
+ margin: 10px;
+ text-align: center;
+ line-height: 40px;
+ font-family: arial;
+ font-weight: bold;
+ font-size: 105%;
+}
