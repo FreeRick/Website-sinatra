@@ -1,5 +1,5 @@
 require 'sinatra'
 
-get '/index.html' do
+root '/index.html' do
     
 end
