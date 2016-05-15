@@ -1,10 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
 #me {
 
 }
 
-#topbox {
-  margin: 0;
-  padding: 0;
+div #topbox {
+  margin: 10%;
+  padding: 10%;
   line-height: 1.2em;
   font-size: 38px;
   border: 10px;
@@ -14,13 +26,48 @@
   /*height: 100%;*/
 }
 
-* {
-  background-image: url(https://static.pexels.com/photos/6471/woman-hand-smartphone-desk.jpg)
+*{
+    color: antiquewhite;
+}
+
+#socialnet div{
+  margin: 10%;
+  padding: 10%;
+  line-height: 1.2em;
+  border: 10px;
+  border-style: groove;
+  border-width: thin;
+  text-align: center;
+}
+
+#mee {
+    font-size: 30px;
+}
+body {
+  background-image: url(http://i.imgur.com/ECtInPL.jpg)
 }
 
 
 h5 {
+  margin: 10%;
+  padding: 10%;
+  line-height: 1.2em;
+  font-size: 38px;
+  border: 10px;
+  border-style: groove;
+  border-width: thin;
+  text-align: center;
+}
 
+h3 {
+  margin: 10%;
+  padding: 10%;
+  line-height: 1.2em;
+  font-size: 38px;
+  border: 10px;
+  border-style: groove;
+  border-width: thin;
+  text-align: center;
 }
 
 div #developerit {
@@ -33,11 +80,15 @@ div #developerit {
   justify-content: space-around;
 }
 
-#socialnet {
+#devcontainer h1 {
+    font-size: 50px;
+}
+
+/*#socialnet {
   margin: 0;
   padding: 0;
   line-height: 38px;
-}
+}*/
 
 
 /*.class {
@@ -50,6 +101,16 @@ div #developerit {
   border: 50px;
 }*/
 
+#streamsearch {
+    height: 700%;
+    width: 100%;
+}
+
+#pictureme {
+    height: 50%;
+    width: 50%;
+}
+
 #projects: {
   /*display: flex;
   text-align: center;
@@ -57,6 +118,7 @@ div #developerit {
   /*border-image: "https://g.twimg.com/Twitter_logo_blue.png"(ge)
   border-color: black;
   /*border-radius: 4px;*/
+/*
   display: flex;
 width: auto;
  border: solid black;
@@ -67,4 +129,34 @@ width: auto;
  font-family: arial;
  font-weight: bold;
  font-size: 105%;
+*/
+}
+
+#projects{
+  margin: 10%;
+  padding: 10%;
+  line-height: 1.2em;
+  font-size: 38px;
+  border: 10px;
+  border-style: groove;
+  border-width: thin;
+  text-align: center;
+}
+
+
+#twitter {
+  border-style: dashed;
+  display: flex;
+  justify-content: space-around;
+}
+
+#twitter li img {
+  border-style: groove;
+  width: 50px;
+  height: 50px;
+}
+
+
+#topbox h2 {
+    font-size: 40%;
 }
